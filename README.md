@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Jasfer Levin. I'm a bachelor of Science in Computer Engineer.</h2>
+<h2 align="center">Hi 👋! My name is Jasfer Levin. A Computer Engineer.</h2>
 
 ###
 
